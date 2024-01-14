@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.exe
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.deps.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.runtimeconfig.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\refint\03. Even or Odd.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\03. Even or Odd\obj\Debug\net8.0\ref\03. Even or Odd.dll
