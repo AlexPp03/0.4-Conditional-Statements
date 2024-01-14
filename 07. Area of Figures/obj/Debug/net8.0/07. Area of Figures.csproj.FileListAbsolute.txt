@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.exe
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.deps.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.runtimeconfig.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\bin\Debug\net8.0\07. Area of Figures.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\refint\07. Area of Figures.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\07. Area of Figures.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\07. Area of Figures\obj\Debug\net8.0\ref\07. Area of Figures.dll
