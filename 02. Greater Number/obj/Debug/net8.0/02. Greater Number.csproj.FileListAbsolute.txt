@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\bin\Debug\net8.0\02. Greater Number.exe
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\bin\Debug\net8.0\02. Greater Number.deps.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\bin\Debug\net8.0\02. Greater Number.runtimeconfig.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\bin\Debug\net8.0\02. Greater Number.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\bin\Debug\net8.0\02. Greater Number.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\refint\02. Greater Number.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\02. Greater Number.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\02. Greater Number\obj\Debug\net8.0\ref\02. Greater Number.dll
