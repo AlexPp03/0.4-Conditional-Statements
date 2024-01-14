@@ -1,0 +1,14 @@
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\bin\Debug\net8.0\06. Speed Info.exe
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\bin\Debug\net8.0\06. Speed Info.deps.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\bin\Debug\net8.0\06. Speed Info.runtimeconfig.json
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\bin\Debug\net8.0\06. Speed Info.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\bin\Debug\net8.0\06. Speed Info.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfoInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfo.cs
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.csproj.CoreCompileInputs.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\refint\06. Speed Info.dll
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.pdb
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\06. Speed Info.genruntimeconfig.cache
+C:\New D\Visual Studio Projects\0.3 Conditional Statements\06. Speed Info\obj\Debug\net8.0\ref\06. Speed Info.dll
